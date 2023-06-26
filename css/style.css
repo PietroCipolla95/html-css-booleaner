@@ -1,0 +1,15 @@
+*{
+    margin: 0%;
+}
+
+header{
+    background-image: url(../img/pattern.png);
+    background-color: rgb(14, 151, 231);
+    background-size: 400px;
+}
+
+header>img{
+    width: 130px;
+    margin: 50px 0px 10px 20px;
+}
+
